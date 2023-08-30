@@ -1,5 +1,3 @@
-## Sales Insights Project
-
 
 ### Data Analysis Using SQL
 
